@@ -6,3 +6,5 @@ A bot which gets you followers on quora.
 1. Selenium
 
 2. Chrome webdriver
+3. PhantomJS
+
