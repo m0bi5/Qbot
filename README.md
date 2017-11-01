@@ -1,5 +1,5 @@
 # Qbot
-A bot which gets you followers on quora.
+A bot which gets you followers on Quora by exploiting a bug on their website.
 
 Dependencies
 
